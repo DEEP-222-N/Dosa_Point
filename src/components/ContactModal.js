@@ -46,19 +46,19 @@ const ContactModal = ({ onClose }) => {
             <div className="contact-section">
               <h3>Follow Us</h3>
               <div className="social-links">
-                <a href="#" className="social-link">
+                <a href="https://www.instagram.com/dosapoint/" className="social-link">
                   <span className="icon">📱</span>
                   <span>Instagram</span>
                 </a>
-                <a href="#" className="social-link">
+                <a href="https://www.facebook.com/dosapoint/" className="social-link">
                   <span className="icon">📘</span>
                   <span>Facebook</span>
                 </a>
-                <a href="#" className="social-link">
+                <a href="https://x.com/dosapoint" className="social-link">
                   <span className="icon">🐦</span>
                   <span>Twitter</span>
                 </a>
-                <a href="#" className="social-link">
+                <a href="https://wa.me/919876543210" className="social-link">
                   <span className="icon">📸</span>
                   <span>WhatsApp</span>
                 </a>
