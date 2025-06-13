@@ -10,7 +10,7 @@ import "./styles/Footer.css";
 
 const cardData = [
   { id: 1, title: "Masala Dosa", description: "Crispy rice crepe filled with spiced potato masala, served with sambar and chutney.", image: "/images/classic-masala-dosa.jpg" },
-  { id: 2, title: "Rava Dosa", description: "Crispy semolina crepe with a unique texture, served with sambar and coconut chutney.", image: "/images/rava Dosa.jpg" },
+  { id: 2, title: "Neer Dosa", description: "Soft and delicate rice crepe with a lacy texture, served with coconut chutney.", image: "/images/neer-dosa.jpg" },
   { id: 3, title: "Onion Rava Dosa", description: "Crispy semolina crepe with caramelized onions, served with sambar and chutney.", image: "/images/Onion Rava.webp" },
   { id: 4, title: "Set Dosa", description: "Soft and spongy mini dosas served in a set of three with sambar and chutney.", image: "/images/Set-Dosa.jpg" },
   { id: 5, title: "Paper Dosa", description: "Extra thin and crispy dosa, served with sambar and chutney.", image: "/images/paper.jpeg" },

@@ -28,29 +28,22 @@ const getDosaRecipe = (title) => {
         "Fold and serve with sambar and chutney"
       ]
     },
-    "Rava Dosa": {
+    "Neer Dosa": {
       ingredients: [
-        "1 cup semolina (rava)",
-        "1/4 cup rice flour",
-        "1/4 cup all-purpose flour",
-        "1 onion, finely chopped",
-        "2 green chilies, chopped",
-        "1 inch ginger, grated",
-        "1/2 tsp cumin seeds",
-        "1/2 tsp black pepper",
-        "Salt to taste",
+        "2 cups raw rice",
+        "1/2 cup grated coconut",
+        "1/2 tsp salt",
         "Water as needed",
         "Oil for cooking"
       ],
       instructions: [
-        "Mix all dry ingredients together",
-        "Add chopped onions, chilies, and ginger",
-        "Add water gradually to make a thin batter",
-        "Let it rest for 20-30 minutes",
-        "Heat tawa and pour batter in circular motion",
-        "Add oil around the edges",
-        "Cook until crispy and golden",
-        "Serve hot with sambar and chutney"
+        "Soak rice for 4-5 hours",
+        "Grind rice with coconut to make a very fine batter",
+        "Add salt and water to make a very thin batter (like water consistency)",
+        "Heat tawa on medium flame",
+        "Pour batter in a thin layer using a ladle",
+        "Cook until the edges start to lift",
+        "Fold gently and serve hot with coconut chutney"
       ]
     },
     "Onion Rava Dosa": {
