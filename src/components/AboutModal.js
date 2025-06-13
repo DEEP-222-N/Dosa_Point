@@ -22,7 +22,6 @@ const AboutModal = ({ onClose }) => {
                 <li>Step-by-step dosa recipes from classic to fusion</li>
                 <li>Tips on batter preparation and fermentation</li>
                 <li>Cooking guides for various dosa types like Masala, Rava, Ragi, Cheese, and more</li>
-                <li>Nutrition information and serving suggestions</li>
               </ul>
             </div>
 
