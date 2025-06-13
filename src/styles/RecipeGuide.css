@@ -1,0 +1,130 @@
+.recipe-guide {
+  max-width: 900px;
+  max-height: 90vh;
+  overflow-y: auto;
+  padding: 0;
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.guide-content {
+  padding: 2rem;
+}
+
+.guide-section {
+  margin-bottom: 3rem;
+}
+
+.guide-section h3 {
+  color: #e65100;
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid #ffb74d;
+}
+
+.recipe-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.recipe-card:hover {
+  transform: translateY(-5px);
+}
+
+.recipe-card h4 {
+  color: #c53c12;
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+}
+
+.recipe-card h5 {
+  color: #e65100;
+  font-size: 1.2rem;
+  margin: 1rem 0 0.5rem;
+}
+
+.recipe-details {
+  background: #fff3e0;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-top: 1rem;
+}
+
+.recipe-card ul, .recipe-card ol {
+  margin: 0.5rem 0;
+  padding-left: 1.5rem;
+}
+
+.recipe-card li {
+  margin: 0.5rem 0;
+  color: #333;
+  line-height: 1.5;
+}
+
+.tips-list {
+  background: #fff3e0;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-top: 1rem;
+}
+
+.tips-list li {
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.tips-list li::before {
+  content: "💡";
+  position: absolute;
+  left: 0;
+  color: #e65100;
+}
+
+/* Custom Scrollbar */
+.recipe-guide::-webkit-scrollbar {
+  width: 8px;
+}
+
+.recipe-guide::-webkit-scrollbar-track {
+  background: #fff3e0;
+  border-radius: 4px;
+}
+
+.recipe-guide::-webkit-scrollbar-thumb {
+  background: #ffb74d;
+  border-radius: 4px;
+}
+
+.recipe-guide::-webkit-scrollbar-thumb:hover {
+  background: #e65100;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .recipe-guide {
+    width: 95%;
+    margin: 1rem;
+  }
+
+  .guide-content {
+    padding: 1rem;
+  }
+
+  .recipe-card {
+    padding: 1rem;
+  }
+
+  .guide-section h3 {
+    font-size: 1.5rem;
+  }
+
+  .recipe-card h4 {
+    font-size: 1.2rem;
+  }
+} 
