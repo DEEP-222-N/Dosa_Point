@@ -32,7 +32,7 @@ Built as a frontend portfolio project, Dosa Point demonstrates clean UI design, 
 
 1. **Clone the Repository**
 
-```git clone https://github.com/DEEP-222-N/dosa-point.git```
+```git clone https://github.com/DEEP-222-N/Dosa_Point```
 
 ```cd dosa-point```
 
